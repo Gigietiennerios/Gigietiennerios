@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gigietiennerios
+- 👀 I’m interested in B2C products and accessibility
+- 🌱 I’m currently learning Ruby on Rails and more about accessibility
+- 💞️ I’m looking to talk to anyone interested in accessible code and products! 
+- 📫 How to reach me: g.etienne.rios@gmail.com
